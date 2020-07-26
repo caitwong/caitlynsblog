@@ -1,0 +1,42 @@
+.main{
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: rgb(213, 213, 255);
+    padding-bottom: 400px;
+}
+
+.margintop{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+h1{
+    font-family: arial black;
+    text-align: center;
+    text-decoration-color: gray;
+    text-shadow: 4px 2px white;
+    border-style: solid;
+    border-color :white;
+    
+}
+
+h2{
+    width: 150;
+    font-family: Georgia;
+    border-style: dotted;
+    border-color: white;
+    padding: 20;
+    text-shadow: 4px 2px white;
+    text-decoration: underline;
+}
+
+li{
+    font-size: 20;
+    font-style: italic;
+    font-weight: 300;
+}
+
+h5{
+    font-family: arial black;
+}
+

@@ -1,0 +1,16 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "../Random"
+        },
+        {
+            "path": "../Quest 3"
+        }
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "Random"
+    }
+}
